@@ -50,10 +50,4 @@ flutter run
 6. Go to the android meulator, enter then details and see the ouptut.
 
 
-
-Output screenshots
-**Input Screen**  
-[![Input Screen](screenshots/input.png)](screenshots/input.png)
-
-**Summary Screen**  
-[![Summary Screen](screenshots/output.png)](screenshots/output.png)
+Output screenshots can be seen in screenshot folder(input.png and output.png)
