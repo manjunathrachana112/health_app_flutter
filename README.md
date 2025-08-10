@@ -1,16 +1,50 @@
-# health_app
+# Health App Flutter
 
-A new Flutter project.
+A simple Flutter application that allows users to input their health details such as **Name**, **Age**, **Steps Walked**, **Water Intake**, and **Sleep Duration**, and then view a summary along with a bar chart visualization.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- User input form for health details.
+- Validation for input ranges.
+- Summary screen displaying entered details.
+- Bar chart showing health metrics.
+- Works on Android devices and emulators.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Prerequisites
+installations
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Flutter SDK** → [Install Flutter](https://docs.flutter.dev/get-started/install)
+2. **Dart SDK** (included with Flutter)
+3. **Visual Studio Code** for development
+4. **Git** → [Download Git](https://git-scm.com/downloads)
+5. **Android Emulator** (via Android Studio) 
+
+
+
+## Installation & Running the App
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/manjunathrachana112/health_app_flutter.git
+
+2.Open android studio, go to 'more actions' then selection 'vertual device manager' then click on the play button infront of "meduim phone api" to turn on the android emulator.
+
+3. Open in Visual Studio Code
+Open Visual Studio Code
+
+Go to File → Open Folder
+
+Select the folder health_app_flutter
+
+4. Install dependencies(on the visual studio terminal)
+flutter pub get
+
+
+5. Run the app(On connected Android device)
+
+flutter run
+
+6. Go to the android meulator, enter then details and see the ouptut.
