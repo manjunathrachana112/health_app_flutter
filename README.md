@@ -53,7 +53,7 @@ flutter run
 
 Output screenshots
 **Input Screen**  
-![Input Screen](screenshots/input.png)
+[![Input Screen](screenshots/input.png)](screenshots/input.png)
 
 **Summary Screen**  
-![Summary Screen](screenshots/output.png)
+[![Summary Screen](screenshots/output.png)](screenshots/output.png)
