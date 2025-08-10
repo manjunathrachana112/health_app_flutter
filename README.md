@@ -30,7 +30,7 @@ installations
 ```bash
 git clone https://github.com/manjunathrachana112/health_app_flutter.git
 
-2.Open android studio, go to 'more actions' then selection 'vertual device manager' then click on the play button infront of "meduim phone api" to turn on the android emulator.
+2.Open android studio, go to 'more actions' then select 'virtual device manager' then click on the play button infront of "medium phone api" to turn on the android emulator.
 
 3. Open in Visual Studio Code
 Open Visual Studio Code
